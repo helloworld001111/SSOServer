@@ -1,4 +1,4 @@
-package com.fuscent.yooli.sso.pojo;
+package com.dubei.sso.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

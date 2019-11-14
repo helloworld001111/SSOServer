@@ -1,4 +1,4 @@
-package com.fuscent.yooli.sso.interceptor;
+package com.dubei.sso.interceptor;
 
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;

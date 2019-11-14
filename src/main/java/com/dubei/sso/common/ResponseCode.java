@@ -1,4 +1,4 @@
-package com.fuscent.yooli.sso.common;
+package com.dubei.sso.common;
 
 /**
  * Created by yuyong.zhao on 2017-08-01 11:13.

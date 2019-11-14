@@ -1,4 +1,4 @@
-package com.fuscent.yooli.sso.common;
+package com.dubei.sso.common;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;

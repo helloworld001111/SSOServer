@@ -1,4 +1,4 @@
-package com.fuscent.yooli.sso.controller;
+package com.dubei.sso.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

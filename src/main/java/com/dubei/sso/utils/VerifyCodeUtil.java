@@ -1,4 +1,4 @@
-package com.fuscent.yooli.sso.utils;
+package com.dubei.sso.utils;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

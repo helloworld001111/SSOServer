@@ -1,7 +1,6 @@
 package io;
 
-import com.fuscent.yooli.sso.pojo.Person;
-import org.apache.commons.lang3.builder.ToStringExclude;
+import com.dubei.sso.pojo.Person;
 import org.junit.Test;
 
 import java.io.*;
